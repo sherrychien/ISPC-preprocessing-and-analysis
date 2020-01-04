@@ -1,1 +1,1 @@
-# Parachute_analysis
+# Inter-subject analysis
